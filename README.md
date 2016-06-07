@@ -1,5 +1,5 @@
 # procoffload
-Version 0.1.8alpha pre release
+Version 0.1.8alpha pre-release
 
 # Design
 This project is designed to provide offloading of process intensive tasks to a higher power server platform. The design goal is to provide an android software that will offload users submitteded files for CPU intensive activities. The results of these activities should be made avalible to the user on the same software.
