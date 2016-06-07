@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ninja.bitnet.cpuoffload.MainProcOffload">
+    <item
+        android:id="@+id/action_main_exit"
+        android:orderInCategory="100"
+        android:title="@string/action_main_exit"
+        app:showAsAction="never" />
+</menu>
