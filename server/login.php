@@ -1,5 +1,5 @@
 <?php
-$username = "CARLETON12";
+$username = "CARLETON1";
 $password = "password";
 $sent_user = $_GET['user'];
 $sent_pass = $_GET['pass'];
