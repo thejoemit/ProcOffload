@@ -1,4 +1,4 @@
-package ninja.bitnet.cpuoffload;
+package net.notoriousbit.cpuoffload;
 // MainProcOffload.java
 // by: Joseph Mitchell licensed under CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
 import android.annotation.TargetApi;
