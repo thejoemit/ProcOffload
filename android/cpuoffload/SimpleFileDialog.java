@@ -1,4 +1,4 @@
-package ninja.bitnet.cpuoffload;
+package net.notoriousbit.cpuoffload;
 // SimpleFileDialog.java
 // by: ScorchWorks licensed under The Code Project Open License (CPOL) 1.0
         import java.io.File;
