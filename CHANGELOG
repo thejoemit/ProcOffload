@@ -1,0 +1,26 @@
+--- app_vers 0.2.0 alpha---
+* Upgraded to home-brew SHA512 salted validation
+* Upgraded the login function to provide HTTPS support
+* Web Server certificate added to custom TrustManager
+--- app_vers 0.1.9 alpha---
+* Implemented a HTTP login script
+* PHP Get method server side validator script added.
+--- app_vers 0.1.8 alpha---
+* Android file permission support added
+* Import SimpleFileDialog by ScorchWorks
+* Main Content reworked with small About added
+* Main Activity functions defined, with FileDialog integration
+--- app_vers 0.1.4 alpha---
+* Changes default credentials allowance:
+ * 8 character passwords
+ * username string must include "CARLETON"
+* Login screen links to Main screen with Dummy login
+--- app_vers 0.1.3 alpha---
+* Main Activity menu button added with Exit option
+--- app_vers 0.1.2 alpha---
+* Added Main Activity from ASDK template 'Basic Activity'
+* Amended content for send/receive function support
+--- app_vers 0.1.1 alpha---
+* Changed Login Activity layout to username instead of email
+--- app_vers 0.1.0 alpha---
+* Project began with ASDK template 'Login Activity'
