@@ -1,4 +1,10 @@
 # procoffload
+GITHUB RELEASES
+--- app_vers 0.2.0 alpha---
+* Upgraded to home-brew SHA512 salted validation
+* Upgraded the login function to provide HTTPS support
+* Web Server certificate added to custom TrustManager
+
 Version 0.1.8alpha pre-release - https://youtu.be/Cjjmxx0zwvA
 
 # Design
