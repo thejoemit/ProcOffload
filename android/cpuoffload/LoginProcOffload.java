@@ -1,5 +1,4 @@
-
-package ninja.bitnet.cpuoffload;
+package net.notoriousbit.cpuoffload;
 // LoginProcOffload.java
 // by: Joseph Mitchell licensed under CREATIVE COMMONS Attribution-NonCommercial-ShareAlike 4.0 International
 import android.animation.Animator;
